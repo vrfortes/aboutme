@@ -7,7 +7,7 @@
 ```python
 def main():
     name = "Vladimir Rui Fortes"
-    username = "@iamruifortes"
+    username = "@vrfortes"
     print(name, username)
     print(about())
     print(learning())
