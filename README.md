@@ -12,6 +12,7 @@ def main():
     print(about())
     print(learning())
     doing_what = "something"
+    print("I forgot how to code in Python...")
     try:
         if doing_what == "something": # Which is always true!
             raise OverflowError
@@ -29,7 +30,7 @@ def about():
     
 
 def learning():
-    learning = ['Dart', 'Flutter', 'Arduino', 'Electrical Engineering'}
+    learning = ['Dart', 'Flutter', 'Electrical Engineering']
     return learning
 
 
