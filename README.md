@@ -3,7 +3,7 @@
 ![edX](https://img.shields.io/badge/edX%20learner-%2302262B.svg?style=for-the-badge&logo=edX&logoColor=white)
 ![Coursera](https://img.shields.io/badge/Coursera%20learner-blue?style=for-the-badge&logo=coursera&logoColor=white)
 
-## ABOUT ME | 🙆
+## ABOUT ME
 ```python
 def main():
     name = "Vladimir Rui Fortes"
