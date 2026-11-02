@@ -30,7 +30,7 @@ def about():
     
 
 def learning():
-    learning = ['Dart', 'Flutter', 'Electrical Engineering']
+    learning = ['Electrical Engineering', 'Web Development???']
     return learning
 
 
